@@ -1,4 +1,5 @@
 {
+  "name": "angular-skeleton",
   "scripts": {
     "test": "gulp test"
   },
